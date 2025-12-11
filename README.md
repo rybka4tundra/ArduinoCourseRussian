@@ -15,3 +15,5 @@
 **ДЗ**
 - ДЗ 1:
     - [ДЗ1](https://rybka4tundra.github.io/ArduinoCourseRussian/Lecture1/%D0%94%D0%971)
+- ДЗ 2:
+    - [ДЗ2](https://rybka4tundra.github.io/ArduinoCourseRussian/Lecture1/%D0%94%D0%972)
